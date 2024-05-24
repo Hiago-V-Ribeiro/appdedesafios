@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217137860129",
+    "project_id": "appdesafios-bf36f",
+    "storage_bucket": "appdesafios-bf36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217137860129:android:47aa1abfe8b170e9709d60",
+        "android_client_info": {
+          "package_name": "com.example.appdedesafios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-Zf7spje3fgaTXeZHSNwy2uApuCZPWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
